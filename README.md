@@ -2,11 +2,11 @@
 
 <div>
 <p>
-group project 1 for Rutgers coding bootcamp 2019
+It's a project uisng Ajax,JQuery and Api. It's a group project.
 
 <ul>
 
-<li> https://alexlo15.github.io/Project1/ </li>
+<li> https://het1905.github.io/Notify/ </li>
 <li>
 <strong>
 Presentation:
